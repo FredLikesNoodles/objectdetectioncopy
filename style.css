@@ -1,0 +1,29 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: rgb(76, 164, 222);
+padding: 15px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 18px;
+    box-shadow: 10px 10px 30px grey;
+    border-color: black;
+    border-style: solid;
+}
+.btn-success{
+    padding: 15px !important;
+}
